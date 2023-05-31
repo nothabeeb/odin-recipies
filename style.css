@@ -1,12 +1,32 @@
 html{
-    background-color: gray;    
+    background-color: beige;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#links a{
+a{
     text-decoration: none;
-    color: black;
+    color: brown;
+    text-align: center;
+}
+.title{
+    color: brown;
 }
 body>h1{
     text-align: center;
+}
+div{
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 30px;
+
+}
+img{
+    height: auto;
+    width: 500px;
+    display: block;
+}
+ul,ol{
+    color: brown;
+
 }
